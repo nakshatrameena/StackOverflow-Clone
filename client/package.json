@@ -1,19 +1,13 @@
+
 {
   "name": "client",
   "version": "0.1.0",
   "private": true,
   "overrides": {
-
     "postcss-safe-parser": {
       "postcss": "8.4.38"
     }
   },
-
-  "postcss-safe-parser": {
-    "postcss": "8.4.38"
-  }
-},
-
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
     "@fortawesome/free-solid-svg-icons": "^5.15.4",
@@ -58,3 +52,4 @@
       "last 1 safari version"
     ]
   }
+}
